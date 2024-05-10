@@ -5,7 +5,7 @@
 int	ft_printf(const char *format, ...)
 ```
 
-![ft_printf](https://github.com/leebo155/ft_printf/assets/81127600/c6eaa1f3-3440-4dde-8620-9ddc27db2eb2)
+![ft_printf (2)](https://github.com/leebo155/ft_printf/assets/81127600/76a28793-c5e7-4348-9ff6-cb9ef08c2e26)
 
 ## Introduction
  * This project has to recode the printf() function.
